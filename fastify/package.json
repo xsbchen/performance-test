@@ -1,0 +1,10 @@
+{
+  "name": "fastify-tfb",
+  "version": "0.0.2",
+  "description": "Fastify tests for TechEmpower Framework Benchmarks.",
+  "main": "app.js",
+  "private": true,
+  "dependencies": {
+    "fastify": "4.13.0"
+  }
+}
